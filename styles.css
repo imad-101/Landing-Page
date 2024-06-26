@@ -1,20 +1,22 @@
-.nav-left{
-    width: 35%;
-    float: left;
-    padding: 35px;
-    padding-left: 100px;
+*{
+    padding: 0;
+    margin: 0;
+
+}
+.header{
+    color:white;
+    background-color: rgb(50, 50, 131);
+}
+
+.header-top{
+    display: flex;
+    justify-content: space-around;
+}
+ul{
+    display: flex;
+    list-style: none;
+}
+a{
+    text-decoration: none;
     color: white;
-}
-.nav-right{
-    padding:40px ;
-    padding-right: 50px;
-    width: 50%;
-    float: right;
-    color: aliceblue;
-}
-img{
-    padding-top: 40px;
-}
-body{
-    background-color: #1F2937;
 }
