@@ -1,0 +1,20 @@
+.nav-left{
+    width: 35%;
+    float: left;
+    padding: 35px;
+    padding-left: 100px;
+    color: white;
+}
+.nav-right{
+    padding:40px ;
+    padding-right: 50px;
+    width: 50%;
+    float: right;
+    color: aliceblue;
+}
+img{
+    padding-top: 40px;
+}
+body{
+    background-color: #1F2937;
+}
