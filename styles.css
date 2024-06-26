@@ -1,22 +1,36 @@
 *{
-    padding: 0;
     margin: 0;
-
+    padding: 0;
 }
+
 .header{
-    color:white;
-    background-color: rgb(50, 50, 131);
+    background-color: #1F2937;
 }
-
-.header-top{
+.header-nav{
     display: flex;
-    justify-content: space-around;
+    justify-content: space-between;
+    padding: 30px;
+    padding-left: 150px;
+    padding-right: 200px;
+    color: white;
+    
 }
-ul{
+.link-div{
     display: flex;
-    list-style: none;
+    flex-direction: row;
+    
 }
 a{
     text-decoration: none;
+    color: white;
+    margin: 10px;
+}
+.header-content{
+    padding: 80px;
+    padding-top: 30px;
+    padding-left: 150px;
+    padding-right: 200px;
+    display: flex;
+    justify-content: space-between;
     color: white;
 }
