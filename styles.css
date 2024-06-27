@@ -34,3 +34,36 @@ a{
     justify-content: space-between;
     color: white;
 }
+a{
+    font-size: 18px;
+    color: #E5E7EB;
+ 
+}
+h3{
+    font-size: 24px;
+    color: #F9FAF8;
+}
+button{
+    color: white;
+    background-color: blue;
+    padding: 10px;
+    margin-top: 15px;
+    border-radius: 20%;
+    border: 2px solid black;
+}
+.body-1{
+    text-align: center;
+    padding-top: 30px;
+    display: flex;
+    justify-content: space-between;
+}
+.img-div{
+    color: blue;
+    border: 2px solid blue;
+    border-radius: 20%;
+    height: auto;
+    width: 25%;
+    display: flex;
+    justify-content: space-around;
+    flex-direction: row;
+}
