@@ -84,21 +84,25 @@ button{
 }
 .testimonial-p{
     padding: 150px;
-    font-size: 24px;
+    font-size: 36px;
+    color: #1F2937;
 }
 .body-2{
     margin-top: 100px;
     text-align: center;
-    background-color: rgb(212, 212, 212);
+    background-color: #E5E7Eb;
 }
 .body-3{
     padding: 120px;
 }
 .call-to-action{
     padding: 50px;
-    background-color: rgb(50, 50, 255);
+    background-color: #3882F6;
     display: flex;
     justify-content: space-between;
+}
+.CTA-button{
+    background-color:#3882F6;
 }
 .footer{
     background-color: #1F2937;
@@ -107,4 +111,7 @@ button{
 }
 .footer-copyright{
     padding: 40px;
+}
+.img-1{
+    filter: drop-shadow(1px 1px 20px rgb(195, 211, 255) ) ;
 }
